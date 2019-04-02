@@ -1,0 +1,14 @@
+{
+    "title": "Gattaca",
+    "release_year": 1997,
+    "is_awesome": true,
+    "won_oscar": false,
+    "actors": ["Ethan Hawke","Uma Tharu","Alan Walker","Loren Dean"],
+    "budget": null,
+    "credits":{ 
+        "director": "Andrew Niccol",
+        "writer": "Andrew Niccol",
+        "composer": "Michael Nyman",
+        "cinematographer": "Slami Uzbek"
+        }
+    }
